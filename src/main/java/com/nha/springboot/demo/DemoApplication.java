@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@GetMapping("message")
 	public String getMessage(){
-		return "Hello Kok Koko!";
+		return "Hello Kok Dara!";
 	}
 
 	public static void main(String[] args) {
